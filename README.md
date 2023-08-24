@@ -12,7 +12,7 @@ Use with [ESPHome](https://esphome.io/) (at least v1.18.0)
 # The Basic Display Definition in ESPhome
 
 external_components:
-  - source: github://tiaanv/esphome-components
+  - source: github://tinnetju/esphome-components
     components: ["t547"]
 
 display:
